@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d7afa3e.css",
+    "main.js": "/static/js/main.e64f02f7.js",
+    "static/media/resume.pdf": "/static/media/resume.7ce53c505a6f1f26babe.pdf",
+    "static/media/profile.jpeg": "/static/media/profile.3f751e71afafd1c89c92.jpeg",
+    "static/media/ScrenDocxLogo.jpg": "/static/media/ScrenDocxLogo.d02d12e96b94875a01c4.jpg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.1d7afa3e.css",
+    "static/js/main.e64f02f7.js"
+  ]
+}
